@@ -1,1 +1,3868 @@
-{"@id":"https://w3id.org/data","type":"FeatureCollection","@context":"https://w3id.org/locolligo/contexts/linkedplaces.jsonld","features":[{"@id":"https://w3id.org/data/9b6b78b1-5e51-41fc-957d-2a4a55f6fa7f","type":"Feature","properties":{"title":"FP 3.1","id":1,"lat":55.21564969,"lon":14.75529699},"geometry":null},{"@id":"https://w3id.org/data/796bb68a-1df4-4c49-83f1-b95a23cd0963","type":"Feature","properties":{"title":"FP 3.2","id":2,"lat":55.21564969,"lon":14.75529699},"geometry":null},{"@id":"https://w3id.org/data/f31ae6b2-7418-4b35-ab0b-eae35ee06db4","type":"Feature","properties":{"title":"FP 3.3","id":3,"lat":55.21564969,"lon":14.75529699},"geometry":null},{"@id":"https://w3id.org/data/a3e6acef-bf79-4789-80ac-d8bb49b62a83","type":"Feature","properties":{"title":"FP 3.4","id":4,"lat":55.21564969,"lon":14.75529699},"geometry":null},{"@id":"https://w3id.org/data/a6c41459-17b9-421d-92e8-f271f4aa44e1","type":"Feature","properties":{"title":"FP 3.5","id":5,"lat":55.21564969,"lon":14.75529699},"geometry":null},{"@id":"https://w3id.org/data/bfdc7cf3-b379-4ba7-9bd9-de053d02fab8","type":"Feature","properties":{"title":"FP 3.6","id":6,"lat":55.21564969,"lon":14.75529699},"geometry":null},{"@id":"https://w3id.org/data/e3788ca5-d8e1-4a57-a5a6-d5afc01cfdd2","type":"Feature","properties":{"title":"FP 3.7","id":7,"lat":55.21564969,"lon":14.75529699},"geometry":null},{"@id":"https://w3id.org/data/4aab1bf8-792c-4611-9686-536e17c61fa1","type":"Feature","properties":{"title":"FP 3.8","id":8,"lat":55.21564969,"lon":14.75529699},"geometry":null},{"@id":"https://w3id.org/data/c1f896b4-2e31-49eb-978d-670f3fc82408","type":"Feature","properties":{"title":"FP 3.9","id":9,"lat":55.21564969,"lon":14.75529699},"geometry":null},{"@id":"https://w3id.org/data/ebffc7d9-1486-496d-8cd1-8f89869c0915","type":"Feature","properties":{"title":"FP 3.10","id":10,"lat":55.21564969,"lon":14.75529699},"geometry":null},{"@id":"https://w3id.org/data/9fe90ad8-5ede-43c1-9104-9354a0588645","type":"Feature","properties":{"title":"FP 3.11","id":11,"lat":55.21564969,"lon":14.75529699},"geometry":null},{"@id":"https://w3id.org/data/04e4db53-25b5-4455-8f1c-9f2dcf1a2978","type":"Feature","properties":{"title":"FP 3.12","id":12,"lat":55.21564969,"lon":14.75529699},"geometry":null},{"@id":"https://w3id.org/data/83aa52b1-6ce4-409d-aa15-319c12a506e7","type":"Feature","properties":{"title":"FP 3.13","id":13,"lat":55.21564969,"lon":14.75529699},"geometry":null},{"@id":"https://w3id.org/data/b36d332c-287b-40c0-953a-5f1ec4693565","type":"Feature","properties":{"title":"FP 3.14","id":14,"lat":55.21564969,"lon":14.75529699},"geometry":null},{"@id":"https://w3id.org/data/fd00955b-fad6-43cf-be73-fb575de2d2fd","type":"Feature","properties":{"title":"FP 22.1","id":15,"lat":55.13360639,"lon":15.02748224},"geometry":null},{"@id":"https://w3id.org/data/04557cca-e616-4e07-8ee0-3b1aa29c8133","type":"Feature","properties":{"title":"FP 57.1","id":16,"lat":55.07203087,"lon":14.79816681},"geometry":null},{"@id":"https://w3id.org/data/7b239e9d-2b5b-4429-89c9-df2dbfa0e0cb","type":"Feature","properties":{"title":"FP 72.1","id":23,"lat":55.23545989,"lon":10.47649445},"geometry":null},{"@id":"https://w3id.org/data/5739c3e6-b880-46ce-ac99-7dbecefbb7f5","type":"Feature","properties":{"title":"FP 72.2","id":24,"lat":55.23545989,"lon":10.47649445},"geometry":null},{"@id":"https://w3id.org/data/689bbf80-4a14-4a87-8585-c0ca9055a236","type":"Feature","properties":{"title":"FP 72.3","id":25,"lat":55.23545989,"lon":10.47649445},"geometry":null},{"@id":"https://w3id.org/data/4028ba35-1d93-42f7-aa46-37cb3004f56d","type":"Feature","properties":{"title":"FP 72.4","id":26,"lat":55.23545989,"lon":10.47649445},"geometry":null},{"@id":"https://w3id.org/data/ef7605e0-03e5-48a9-b7cf-bdce02ca4afe","type":"Feature","properties":{"title":"FP 72.5","id":27,"lat":55.23545989,"lon":10.47649445},"geometry":null},{"@id":"https://w3id.org/data/eab8e9ca-ea03-461c-a0f6-497f04ebbda2","type":"Feature","properties":{"title":"FP 85.1","id":28,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/81157e68-0783-4dfb-bfe8-b1dba27bc182","type":"Feature","properties":{"title":"FP 85.2","id":29,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/bbd83280-f79d-4f7c-8bea-5b76986dc9e1","type":"Feature","properties":{"title":"FP 85.3","id":30,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/3cae1b74-77b3-4566-9ef1-548a661af51a","type":"Feature","properties":{"title":"FP 85.4","id":31,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/5a79ab66-d20d-4d24-9f5c-6a8d05f7cc11","type":"Feature","properties":{"title":"FP 85.5","id":32,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/8180cd85-ceac-4b17-84f6-c1e368096f8d","type":"Feature","properties":{"title":"FP 85.6","id":33,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/9ecc7b2c-5bc8-4e8b-98ff-3b1d3c9a5ad7","type":"Feature","properties":{"title":"FP 85.7","id":34,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/921d486d-a38f-40d3-9de1-4dade302d072","type":"Feature","properties":{"title":"FP 85.8","id":35,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/2996f8fd-9c74-48de-8037-43d47e04b763","type":"Feature","properties":{"title":"FP 85.9","id":36,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/bef6da5c-ecb2-4eda-a125-10a167640317","type":"Feature","properties":{"title":"FP 85.10","id":37,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/00095f5f-b084-49d0-9223-39e90cb1f27a","type":"Feature","properties":{"title":"FP 85.11","id":38,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/0dbda395-ad50-498c-9f05-f690d0d387ef","type":"Feature","properties":{"title":"FP 85.12","id":39,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/fcf03bde-f45c-42ca-9211-9e81ee1f8784","type":"Feature","properties":{"title":"FP 85.13","id":40,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/61d80064-16ac-4f96-a4f4-da6f5123d800","type":"Feature","properties":{"title":"FP 85.14","id":41,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/b2b344d9-7adb-418a-8005-3457b5846db2","type":"Feature","properties":{"title":"FP 85.15","id":42,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/6bc10fc1-d5c8-4d13-9ab7-46cd09dc9cab","type":"Feature","properties":{"title":"FP 85.16","id":43,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/2f20b5d8-c7be-480c-904b-6d28b7f9f06b","type":"Feature","properties":{"title":"FP 85.17","id":44,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/baec56d8-93fd-4c91-a65f-8e63eea2b30e","type":"Feature","properties":{"title":"FP 85.18","id":45,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/c44d3ba0-3579-41cf-b32e-994f4f15a7d1","type":"Feature","properties":{"title":"FP 85.19","id":46,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/f054d289-8244-4314-91cc-3ab0b866d323","type":"Feature","properties":{"title":"FP 85.20","id":47,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/0dc925ab-2945-4e31-a0f3-e60e1c16ae14","type":"Feature","properties":{"title":"FP 85.21","id":48,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/5f3b0649-b79f-4cfd-9f4b-c42b729dd6e2","type":"Feature","properties":{"title":"FP 85.22","id":49,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/0bfd24b1-f699-4d13-8fd9-3bc71c701bb3","type":"Feature","properties":{"title":"FP 85.23","id":50,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/112403a0-3665-43bd-8aa5-60920400f0c7","type":"Feature","properties":{"title":"FP 85.24","id":51,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/13350411-6566-4a2f-ae5b-ea7a6a3128ec","type":"Feature","properties":{"title":"FP 85.25","id":52,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/cd33b11e-be7f-4234-a556-e16f0be32297","type":"Feature","properties":{"title":"FP 85.26","id":53,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/659b4815-e4fa-4026-8208-c3ed28f6c66c","type":"Feature","properties":{"title":"FP 85.27","id":54,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/90626bf7-9128-40d9-8aac-2edb84e6ca9f","type":"Feature","properties":{"title":"FP 85.28","id":55,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/fddc85ae-3865-4062-b38d-eb68ae21f7fc","type":"Feature","properties":{"title":"FP 85.29","id":56,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/30ce5f15-c269-4d7f-816c-da34295a3ed7","type":"Feature","properties":{"title":"FP 85.30","id":57,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/7809fc48-7a45-486e-9522-39f170bb5aa1","type":"Feature","properties":{"title":"FP 85.31","id":58,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/c7787783-9d36-47e7-93ec-7227b650d9fe","type":"Feature","properties":{"title":"FP 85.32","id":59,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/3e56c1fb-17bf-47bf-ae85-ba86b036edf0","type":"Feature","properties":{"title":"FP 85.33","id":60,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/77998174-3cba-4ca9-89e4-9a0a77ef0e72","type":"Feature","properties":{"title":"FP 85.34","id":61,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/da43bc1f-4364-4137-9a0f-8823bff5b052","type":"Feature","properties":{"title":"FP 85.35","id":62,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/d9851e06-ada4-49a7-88b3-656e5041ec23","type":"Feature","properties":{"title":"FP 85.36","id":63,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/5447c33a-17e4-4019-90b5-7fecaea0925e","type":"Feature","properties":{"title":"FP 85.37","id":64,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/66f0ff3c-7189-4f6b-a591-9382ab778b6c","type":"Feature","properties":{"title":"FP 85.38","id":65,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/7551b860-a38f-4e00-b16a-c7c5535b55cb","type":"Feature","properties":{"title":"FP 85.39","id":66,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/11f0d388-0d3e-4926-84b5-e5ccc6c77b37","type":"Feature","properties":{"title":"FP 85.40","id":67,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/c2768418-2014-4e45-a10d-701a2adee237","type":"Feature","properties":{"title":"FP 85.41","id":68,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/64ecd043-6508-4fb6-b5d9-9af92cfb1468","type":"Feature","properties":{"title":"FP 85.42","id":69,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/4125b1b3-6b46-4b41-8391-58e88b2132d9","type":"Feature","properties":{"title":"FP 85.43","id":70,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/0279e708-c0aa-4699-a39f-876715ea87e2","type":"Feature","properties":{"title":"FP 85.44","id":71,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/c5f585e8-df72-4a36-aa3f-29a062f2f758","type":"Feature","properties":{"title":"FP 85.45","id":72,"lat":55.74600426,"lon":12.47072718},"geometry":null},{"@id":"https://w3id.org/data/8dbdd9bf-29cc-4a54-93e5-f04133123591","type":"Feature","properties":{"title":"FP 87.1","id":73,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/cb5cb8c6-e8ac-49d4-a3e2-493ebff12227","type":"Feature","properties":{"title":"FP 87.2","id":74,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/c354f1d1-507f-4e67-b837-e614b3bfc070","type":"Feature","properties":{"title":"FP 87.3","id":75,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/178f1878-fec1-47be-a051-d943a68d7203","type":"Feature","properties":{"title":"FP 87.4","id":76,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/29be23b2-7c97-4907-8b4b-55d7e878361d","type":"Feature","properties":{"title":"FP 87.5","id":77,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/b520e674-904a-4ee2-a873-b670d2861b2d","type":"Feature","properties":{"title":"FP 87.6","id":78,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/fa3b1d23-f341-4b75-b3c1-8065b70d01c3","type":"Feature","properties":{"title":"FP 87.7","id":79,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/ccd25a68-8f50-4a6b-999f-62e4391f948b","type":"Feature","properties":{"title":"FP 87.8","id":80,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/e7a8298f-f8cf-47b0-bc83-55cd35116f4e","type":"Feature","properties":{"title":"FP 87.9","id":81,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/6473236a-cc12-4f69-824e-ce519beef086","type":"Feature","properties":{"title":"FP 87.10","id":82,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/738c70b5-c43c-41ba-b971-059ce3dcc277","type":"Feature","properties":{"title":"FP 87.11","id":83,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/ac226a6b-908c-4e24-b3f0-5c117af33c99","type":"Feature","properties":{"title":"FP 87.12","id":84,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/04239357-bf68-40d7-bff8-ed064c1f789b","type":"Feature","properties":{"title":"FP 87.13","id":85,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/f8b48955-b614-4935-9ad4-50ed3e2933e6","type":"Feature","properties":{"title":"FP 87.14","id":86,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/3ada57b7-8e89-4018-9439-b33d43a64914","type":"Feature","properties":{"title":"FP 87.15","id":87,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/e05d6b92-f318-4bc6-a319-91e53ff2bc80","type":"Feature","properties":{"title":"FP 87.16","id":88,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/9b671b9e-6cda-4407-8391-126cf8e463d6","type":"Feature","properties":{"title":"FP 87.17","id":89,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/4f790c78-db8a-4108-b72d-86ef6ccb38ef","type":"Feature","properties":{"title":"FP 87.18","id":90,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/12f16809-a3be-4411-b2ca-53341bae9974","type":"Feature","properties":{"title":"FP 87.19","id":91,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/96ddaf56-d3cb-4041-ac97-b5f4ef7252ce","type":"Feature","properties":{"title":"FP 87.20","id":92,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/6a6e0e35-ed1c-4fc9-90df-4371b6a54b1a","type":"Feature","properties":{"title":"FP 87.21","id":93,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/491773c1-8533-4628-80a6-4a95d4902c0e","type":"Feature","properties":{"title":"FP 87.22","id":94,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/92bec568-509f-49a5-8ca3-0850f95f31af","type":"Feature","properties":{"title":"FP 87.23","id":95,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/cbb754b6-12f2-4a36-b9d5-7cdabf4e304f","type":"Feature","properties":{"title":"FP 87.24","id":96,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/aeaefca2-a81a-4f9a-8b9d-3495de9c7902","type":"Feature","properties":{"title":"FP 87.25","id":97,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/6198a7be-4de7-4d96-9744-f96e82953cbc","type":"Feature","properties":{"title":"FP 87.26","id":98,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/6f7a22b5-68ff-4151-bd9f-037edc27e04a","type":"Feature","properties":{"title":"FP 87.27","id":99,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/6ceab6c7-8727-4517-93bf-7b347b503f42","type":"Feature","properties":{"title":"FP 87.28","id":100,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/23c2e829-3fd0-42f8-b201-e08cb5aedfa1","type":"Feature","properties":{"title":"FP 87.29","id":101,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/8f8e3f30-5a1d-4d31-9b3a-4ca27c5774fc","type":"Feature","properties":{"title":"FP 87.30","id":102,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/088f3c4f-48ed-4034-8bd2-0a2a62245709","type":"Feature","properties":{"title":"FP 87.31","id":103,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/e49679bc-a856-4b71-b030-2352164ecab1","type":"Feature","properties":{"title":"FP 87.32","id":104,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/74a9863a-0cf8-4e38-a225-e7286676cccd","type":"Feature","properties":{"title":"FP 87.33","id":105,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/267911bc-41ee-4eb5-881a-cc8859f4f2a4","type":"Feature","properties":{"title":"FP 87.34","id":106,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/efe0980b-e06f-4f8d-acbc-b282b6ded36e","type":"Feature","properties":{"title":"FP 87.35","id":107,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/cb008b7e-456d-4bc8-b7fc-47c0e4abea84","type":"Feature","properties":{"title":"FP 91.1","id":108,"lat":55.10678105,"lon":14.86979995},"geometry":null},{"@id":"https://w3id.org/data/e4e5a550-53f0-49fa-929e-9c76b26b00c1","type":"Feature","properties":{"title":"FP 92.1","id":109,"lat":55.74619286,"lon":8.40078781},"geometry":null},{"@id":"https://w3id.org/data/505588db-be0f-4ec8-b241-59200dcfd6a0","type":"Feature","properties":{"title":"FP 96.1","id":110,"lat":55.06417067,"lon":14.93207174},"geometry":null},{"@id":"https://w3id.org/data/79bd94c8-9332-4065-bb6d-412d5ed7161e","type":"Feature","properties":{"title":"FP 99.1","id":111,"lat":55.45158002,"lon":11.88441624},"geometry":null},{"@id":"https://w3id.org/data/fb4c743f-18a9-4c5c-8d0c-c4e6d7e33c0a","type":"Feature","properties":{"title":"FP 110.1","id":112,"lat":54.99944399,"lon":10.57923309},"geometry":null},{"@id":"https://w3id.org/data/82e08273-5fb8-4595-a561-1e5703cbea68","type":"Feature","properties":{"title":"FP 122.1","id":113,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/a501b515-da1b-4794-b8c8-2051c4e9cc21","type":"Feature","properties":{"title":"FP 122.2","id":114,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/47d9ba32-2bfb-4355-9841-233b7486f8f9","type":"Feature","properties":{"title":"FP 122.3","id":115,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/c1448c13-34e5-4126-b41b-1b712af814c0","type":"Feature","properties":{"title":"FP 122.4","id":116,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/e398efe5-774e-4df4-8fd0-797cf4c7e1e8","type":"Feature","properties":{"title":"FP 122.5","id":117,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/b3b2727f-112c-49c3-a742-af6538d2e85a","type":"Feature","properties":{"title":"FP 122.6","id":118,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/5d9c98ea-f022-423d-a26f-d2bb8940155b","type":"Feature","properties":{"title":"FP 122.7","id":119,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/df275798-4dd0-4347-940e-6f6d9af06e5f","type":"Feature","properties":{"title":"FP 122.8","id":120,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/4ae6be3b-0de8-48f6-8037-5eea9c280388","type":"Feature","properties":{"title":"FP 122.9","id":121,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/5882bed9-383d-447c-97c1-c31541a99c9a","type":"Feature","properties":{"title":"FP 122.10","id":122,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/69148064-199b-4a7e-89c5-558c672bde7e","type":"Feature","properties":{"title":"FP 122.11","id":123,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/c05883e8-cf7d-49b9-8a18-5d8da7d07849","type":"Feature","properties":{"title":"FP 122.12","id":124,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/9aa6865c-2f0c-45c7-a373-648c5b6468e5","type":"Feature","properties":{"title":"FP 122.13","id":125,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/139b811f-44e7-47fc-a219-b8caaaa24e69","type":"Feature","properties":{"title":"FP 122.14","id":126,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/4e528059-0ed2-45a6-bc22-ad7f8763c3e4","type":"Feature","properties":{"title":"FP 122.15","id":127,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/2d20a910-3f49-4800-8f14-24fbb17811ea","type":"Feature","properties":{"title":"FP 122.16","id":128,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/fb2cf26a-77c6-4b15-81e2-9d3d1b5be9e1","type":"Feature","properties":{"title":"FP 122.17","id":129,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/1280acd8-66f3-4400-96b5-5989449c021c","type":"Feature","properties":{"title":"FP 122.18","id":130,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/382dd74e-0845-4549-bba8-8259ed207562","type":"Feature","properties":{"title":"FP 122.19","id":131,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/60a2c115-4d9d-4291-9b4d-6d622c008ac0","type":"Feature","properties":{"title":"FP 122.20","id":132,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/5078c51a-a352-4361-9d71-8c04db647b8a","type":"Feature","properties":{"title":"FP 122.21","id":133,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/40c40140-e857-4664-9826-01155116bc52","type":"Feature","properties":{"title":"FP 122.22","id":134,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/817de0a9-f7ef-4e07-96b8-bb551506791c","type":"Feature","properties":{"title":"FP 122.23","id":135,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/4a52a807-fb93-4746-b94d-23c3ca1a27f5","type":"Feature","properties":{"title":"FP 122.24","id":136,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/4557b618-a83d-49b1-8c30-4606ca9d155f","type":"Feature","properties":{"title":"FP 122.25","id":137,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/98b3469a-b138-4664-a8c5-967166200b5a","type":"Feature","properties":{"title":"FP 122.26","id":138,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/584e02ef-dabc-4a2a-b707-2329d84f8838","type":"Feature","properties":{"title":"FP 122.27","id":139,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/cb328c31-d5d9-4166-88e4-858b210f0ccf","type":"Feature","properties":{"title":"FP 122.28","id":140,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/301313a4-ac20-48ee-b843-9828a6b76916","type":"Feature","properties":{"title":"FP 122.29","id":141,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/04b1ae31-4775-440a-b7b3-ddc99fe01e2e","type":"Feature","properties":{"title":"FP 122.30","id":142,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/5222f3a0-7d33-4d24-8eb5-41edb32d3e3d","type":"Feature","properties":{"title":"FP 122.31","id":143,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/9f752953-8836-42c2-8658-827672a0e1cf","type":"Feature","properties":{"title":"FP 122.32","id":144,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/7c01fb56-6f87-47cc-90c2-c56ad58ee40d","type":"Feature","properties":{"title":"FP 122.33","id":145,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/c2b5e177-c846-4735-9f5e-a3e9cc0239b7","type":"Feature","properties":{"title":"FP 122.34","id":146,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/3f6d2455-ef71-45e0-b415-caf79f827a81","type":"Feature","properties":{"title":"FP 122.35","id":147,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/25cb5800-87bf-43aa-abb6-a77679ef4454","type":"Feature","properties":{"title":"FP 122.36","id":148,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/e1147fbe-b256-47d2-b31d-6eb038534797","type":"Feature","properties":{"title":"FP 122.37","id":149,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/7ef2e126-96fa-487c-b802-e6d0521f59e1","type":"Feature","properties":{"title":"FP 122.38","id":150,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/c0fc7934-880a-4461-b967-bc4f47f88173","type":"Feature","properties":{"title":"FP 122.39","id":151,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/05592154-0214-4deb-b9be-dafba5a73d95","type":"Feature","properties":{"title":"FP 122.40","id":152,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/c41dc807-49ee-4c7c-9ecc-ef8437e438e2","type":"Feature","properties":{"title":"FP 122.41","id":153,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/dc821231-173d-44b7-9900-a32332a890d4","type":"Feature","properties":{"title":"FP 122.42","id":154,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/b597a7d8-f67b-4c4e-b62c-61f33e45e664","type":"Feature","properties":{"title":"FP 122.43","id":155,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/46ab049a-6b45-4e2b-a380-2eb634cf3bd3","type":"Feature","properties":{"title":"FP 122.44","id":156,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/3fdaf075-562e-4c75-96a3-86704cedfacd","type":"Feature","properties":{"title":"FP 122.45","id":157,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/c9e32ee7-f658-441e-8d8a-46192b36625c","type":"Feature","properties":{"title":"FP 122.46","id":158,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/e715b8b3-9dac-4175-a5ae-d4cd82ff281b","type":"Feature","properties":{"title":"FP 122.47","id":159,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/7226eb12-dd90-46fa-a8fe-c9c47f82e639","type":"Feature","properties":{"title":"FP 122.48","id":160,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/a9ac22db-7e76-458b-9051-6a4e1d9c7b46","type":"Feature","properties":{"title":"FP 122.49","id":161,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/0f0d6e0e-0a5d-4802-96eb-5b96613c88b6","type":"Feature","properties":{"title":"FP 122.50","id":162,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/201ecf3d-c3b4-48e9-a0b5-5f579344df5f","type":"Feature","properties":{"title":"FP 122.51","id":163,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/3d1a42c2-804b-47b3-9d1c-9aa342344bba","type":"Feature","properties":{"title":"FP 122.52","id":164,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/b486fa9c-1f85-4e07-b0e7-842667ec0da3","type":"Feature","properties":{"title":"FP 122.53","id":165,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/3c1c928f-ab05-47c7-8228-0d0a23c0288f","type":"Feature","properties":{"title":"FP 122.54","id":166,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/cc0fe334-81b6-4fca-9ecd-5bff56fe4b77","type":"Feature","properties":{"title":"FP 122.55","id":167,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/fa636a0c-7826-45ce-83af-7a29f04e3106","type":"Feature","properties":{"title":"FP 122.56","id":168,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/b291a38d-007b-4c82-86ef-611575895397","type":"Feature","properties":{"title":"FP 122.57","id":169,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/927a952b-a4ff-4df0-b20c-dcd88eff10d4","type":"Feature","properties":{"title":"FP 122.58","id":170,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/e7e83077-b534-43e3-b482-5f5acc003b7a","type":"Feature","properties":{"title":"FP 122.59","id":171,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/9f6ef6bf-fc3f-49bb-8fea-ad564e9bed77","type":"Feature","properties":{"title":"FP 122.60","id":172,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/e189557a-1515-404c-9bba-1a254e53670b","type":"Feature","properties":{"title":"FP 122.61","id":173,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/2eb5483b-4616-4d8f-ad7e-1d0ae9573dfd","type":"Feature","properties":{"title":"FP 122.62","id":174,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/25ece3c4-2363-4a6a-b382-7dcc578cb91b","type":"Feature","properties":{"title":"FP 122.63","id":175,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/138bf8a0-a14e-4c4e-9acf-a81e4b2e4998","type":"Feature","properties":{"title":"FP 122.64","id":176,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/00c0c8ec-e2f0-4633-939f-02700d26f1be","type":"Feature","properties":{"title":"FP 122.65","id":177,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/d561b136-521b-464c-ac46-f8b0763a76e0","type":"Feature","properties":{"title":"FP 122.66","id":178,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/4d21612d-fa2c-465d-8b2a-0893e14fe67a","type":"Feature","properties":{"title":"FP 122.67","id":179,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/105b9cb5-fc9c-4188-b0e8-f816308cb0f5","type":"Feature","properties":{"title":"FP 122.68","id":180,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/abafcaf0-84f8-4b58-b571-b894d844590f","type":"Feature","properties":{"title":"FP 122.69","id":181,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/d81916c4-4883-47c5-88a0-ddc52e2de624","type":"Feature","properties":{"title":"FP 122.70","id":182,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/a36eea39-a480-4c73-a5e5-ae6ce818e9f4","type":"Feature","properties":{"title":"FP 122.71","id":183,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/6111204e-816d-4de4-a5ba-11ea7a33d9bd","type":"Feature","properties":{"title":"FP 122.72","id":184,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/6bbc4a83-b751-42b6-9722-a3ab5603cf6a","type":"Feature","properties":{"title":"FP 122.73","id":185,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/52b535bd-ca9d-482b-aaf6-3f0b86dacfd3","type":"Feature","properties":{"title":"FP 122.74","id":186,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/c5821ebe-35c2-4898-9ea8-28cfb0269c5c","type":"Feature","properties":{"title":"FP 122.75","id":187,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/54c4f11d-c753-4a9f-987e-93b68db9edf9","type":"Feature","properties":{"title":"FP 122.76","id":188,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/a9760e85-d755-40c5-995d-5c8bbc5660d6","type":"Feature","properties":{"title":"FP 122.77","id":189,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/2d880f24-e898-4e4f-97e1-5cb9c6004e75","type":"Feature","properties":{"title":"FP 122.78","id":190,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/dff4144c-e6ea-4c9d-aade-3e79a0af9624","type":"Feature","properties":{"title":"FP 122.79","id":191,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/9b2026a1-b181-44ae-9e75-c2f54e9cacbd","type":"Feature","properties":{"title":"FP 122.80","id":192,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/a45eda00-82f1-4462-a968-0a91dfa66e11","type":"Feature","properties":{"title":"FP 122.81","id":193,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/0b41dbed-6ad6-478e-9688-b77d041361af","type":"Feature","properties":{"title":"FP 122.82","id":194,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/1a08926a-a65b-4c9d-997c-42eee88aa3dc","type":"Feature","properties":{"title":"FP 122.83","id":195,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/4291fcd5-e4cc-43c8-8060-70db5abf55ea","type":"Feature","properties":{"title":"FP 122.84","id":196,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/235b0a22-039f-4caa-9765-aeaac6c598a4","type":"Feature","properties":{"title":"FP 122.85","id":197,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/a2c045df-72cc-43fc-b07d-ed58b6c52cba","type":"Feature","properties":{"title":"FP 122.86","id":198,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/5ff71696-3388-4ffa-a1c3-3071f29d6665","type":"Feature","properties":{"title":"FP 122.87","id":199,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/5a6d22ab-3751-4b7a-a513-2038e18227f7","type":"Feature","properties":{"title":"FP 122.88","id":200,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/0e12da5d-cd00-4148-9be9-05f01d1db4cc","type":"Feature","properties":{"title":"FP 122.89","id":201,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/43e2ea71-6dc7-4cd3-b32a-6a84a0a6c93c","type":"Feature","properties":{"title":"FP 122.90","id":202,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/5f52c059-120f-4126-8eae-214ccb53fc92","type":"Feature","properties":{"title":"FP 122.91","id":203,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/ed622e1a-3faf-41f6-ae3f-10ddee2f23db","type":"Feature","properties":{"title":"FP 122.92","id":204,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/16c2adc2-e99b-4c58-8156-b764bb9e9e85","type":"Feature","properties":{"title":"FP 122.93","id":205,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/d6677a3e-7b37-4d27-ae6e-7eec47ea8689","type":"Feature","properties":{"title":"FP 122.94","id":206,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/c81f3ea3-393b-4eb3-bc23-d1bde2434426","type":"Feature","properties":{"title":"FP 122.95","id":207,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/87a71252-b9ac-451d-8dc8-b350b3367ec2","type":"Feature","properties":{"title":"FP 122.96","id":208,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/24082b8f-0b9b-4344-b0c2-3790879cbf84","type":"Feature","properties":{"title":"FP 122.97","id":209,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/476cad3f-678d-469f-aa3d-c07572c2a7a3","type":"Feature","properties":{"title":"FP 122.98","id":210,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/5e840bf3-666b-45d3-a28f-327304b73ccd","type":"Feature","properties":{"title":"FP 122.99","id":211,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/24793004-78cf-4605-9eaa-08329fb39745","type":"Feature","properties":{"title":"FP 122.100","id":212,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/b5ee9c7f-fc42-47f9-90cd-94037eee8a5c","type":"Feature","properties":{"title":"FP 122.101","id":213,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/e3864662-3f61-493c-9100-4b8f589d67ed","type":"Feature","properties":{"title":"FP 122.102","id":214,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/6f2b943d-6eff-44e2-a758-2cf72bcaf291","type":"Feature","properties":{"title":"FP 122.103","id":215,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/74a76198-b7a5-499c-97a5-8d1e09308e2a","type":"Feature","properties":{"title":"FP 122.104","id":216,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/ca853744-d042-4e1c-aeff-cda31a13a42f","type":"Feature","properties":{"title":"FP 122.105","id":217,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/2ff66e2c-1ee5-40d0-98e1-74a106c9f64b","type":"Feature","properties":{"title":"FP 122.106","id":218,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/3db1650f-671b-41f2-a771-b74276d557a7","type":"Feature","properties":{"title":"FP 122.107","id":219,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/fc04eb56-31f6-4970-bff5-6c2451623c51","type":"Feature","properties":{"title":"FP 122.108","id":220,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/1c23fa2c-01b0-49d5-87af-ed260e0cd100","type":"Feature","properties":{"title":"FP 122.109","id":221,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/a932aab6-1473-441a-8ad1-479351449409","type":"Feature","properties":{"title":"FP 122.110","id":222,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/dc0ec445-6a08-4cf2-b384-2ec12ddfe452","type":"Feature","properties":{"title":"FP 122.111","id":223,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/783d74a3-db05-4b51-9d0b-1b485716354d","type":"Feature","properties":{"title":"FP 122.112","id":224,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/e9df3a59-8c71-426c-92b1-ad288c8b9126","type":"Feature","properties":{"title":"FP 122.113","id":225,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/b39dbbda-811f-4156-815f-26ce578a786f","type":"Feature","properties":{"title":"FP 122.114","id":226,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/3cffabcd-6701-4286-9e40-9ad3864d4d7c","type":"Feature","properties":{"title":"FP 122.115","id":227,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/d87741b2-72d6-4297-b1ee-9b62e5394b04","type":"Feature","properties":{"title":"FP 122.116","id":228,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/ed655d59-72ec-4b2f-a015-d4b7d95d8443","type":"Feature","properties":{"title":"FP 122.117","id":229,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/43b3ad89-4b88-4f04-aad1-5606db0e8a54","type":"Feature","properties":{"title":"FP 122.118","id":230,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/c2a84c56-c47a-4f25-a6f9-445e3f241615","type":"Feature","properties":{"title":"FP 122.119","id":231,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/fffd8ded-48f0-4a95-8341-3552efd8ed98","type":"Feature","properties":{"title":"FP 122.120","id":232,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/a5119974-d28d-404c-90dd-18c5ade0bb86","type":"Feature","properties":{"title":"FP 122.121","id":233,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/4e39fedd-edd1-45ef-9005-58ad77d4c053","type":"Feature","properties":{"title":"FP 122.122","id":234,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/01e29333-c32d-4a95-843a-7cbac24493f1","type":"Feature","properties":{"title":"FP 122.123","id":235,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/c37f5f31-97e9-4541-a91f-dc400655f441","type":"Feature","properties":{"title":"FP 122.124","id":236,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/db76c815-4fe7-4f84-9355-5d73cc83f132","type":"Feature","properties":{"title":"FP 122.125","id":237,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/d3611c2c-9f41-4b72-99ee-1d9a52f83af1","type":"Feature","properties":{"title":"FP 122.126","id":238,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/9ea43b82-5673-44a2-a4c4-3414a81149ed","type":"Feature","properties":{"title":"FP 122.127","id":239,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/5c55e79d-ded9-455f-851d-89750798f691","type":"Feature","properties":{"title":"FP 122.128","id":240,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/8b51af21-bd6e-4c5d-820c-2635991a531d","type":"Feature","properties":{"title":"FP 122.129","id":241,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/c7f1baeb-0e62-4844-a79b-a90715ba38e3","type":"Feature","properties":{"title":"FP 122.130","id":242,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/be6557ad-7bf9-4a0b-958f-cfde554c8f6d","type":"Feature","properties":{"title":"FP 122.131","id":243,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/a1f52f92-59c1-4e82-8d27-7a3ec1e471ed","type":"Feature","properties":{"title":"FP 122.132","id":244,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/99a422d3-60bd-4e92-adcf-38120b23e697","type":"Feature","properties":{"title":"FP 122.133","id":245,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/34b9b706-7432-46f8-93ae-fda5c3971d95","type":"Feature","properties":{"title":"FP 122.134","id":246,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/f8cf609e-b288-44d4-ac6a-aae1d1c975cc","type":"Feature","properties":{"title":"FP 122.135","id":247,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/0e692964-be0a-4aa4-828f-e609a034c7e2","type":"Feature","properties":{"title":"FP 122.136","id":248,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/c493f1a3-8d46-41f8-9df3-80f76b1986e3","type":"Feature","properties":{"title":"FP 122.137","id":249,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/fc225aa3-5a08-4e42-9f25-7a6561ae6c57","type":"Feature","properties":{"title":"FP 122.138","id":250,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/6e32ad6b-38b2-4427-b255-94da866e9abd","type":"Feature","properties":{"title":"FP 122.139","id":251,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/60098370-09d1-4167-9e9b-3770a1153701","type":"Feature","properties":{"title":"FP 122.140","id":252,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/2c04275f-27de-4e6d-bb17-081bf1b2c3ef","type":"Feature","properties":{"title":"FP 122.141","id":253,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/214ad660-14f3-4dd1-9d80-5aac7fa3a63e","type":"Feature","properties":{"title":"FP 122.142","id":254,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/51a9bd05-a2ce-44ec-8346-12a556067576","type":"Feature","properties":{"title":"FP 122.143","id":255,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/d689b434-f451-4ed3-bd4f-fadca4931687","type":"Feature","properties":{"title":"FP 122.144","id":256,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/4fa44dd4-b196-427f-a4cb-0b339fa3aafe","type":"Feature","properties":{"title":"FP 122.145","id":257,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/3ad7a151-f6d3-4883-adf9-d9f3ef8c89d1","type":"Feature","properties":{"title":"FP 122.146","id":258,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/b50d5a7b-7500-4166-9057-d6cb287e4b01","type":"Feature","properties":{"title":"FP 122.147","id":259,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/80c9eb7e-6d98-40a8-96e6-3cc6dcfa2630","type":"Feature","properties":{"title":"FP 122.148","id":260,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/df87a042-255c-44b9-a251-9cd1a2d08a6a","type":"Feature","properties":{"title":"FP 122.149","id":261,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/29d96650-44f7-47e9-8790-9d2fdbd102eb","type":"Feature","properties":{"title":"FP 122.150","id":262,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/e6b022f3-174e-49dd-b82f-7cf546bf278a","type":"Feature","properties":{"title":"FP 122.151","id":263,"lat":55.11002764,"lon":14.74323875},"geometry":null},{"@id":"https://w3id.org/data/0ab3fb82-63ab-4dab-adf9-f8a370a9b8ac","type":"Feature","properties":{"title":"FP 122.152","id":264,"lat":55.11},"geometry":null}],"indexing":{"@type":"Dataset","name":"data","description":"","license":"https://creativecommons.org/licenses/by/4.0/","identifier":"https://w3id.org/data","temporalCoverage":"1066/2022","spatialCoverage":{"@type":"GeoShape","box":"0.580101 0.00149 60.355 9.78667","geo":{"@type":"GeoShape","box":"Infinity Infinity -Infinity -Infinity"}}}}
+{
+  "type": "FeatureCollection",
+  "indexing": {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "name": "Roman Republican Coins from the Portable Antiquities Scheme",
+    "description": "An enriched dataset of Roman Republican coins from the Portable Antiquities Scheme",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "identifier": "https://finds.org.uk/database/search/results/broadperiod/ROMAN/reeceID/1/"
+  },
+  "features": [
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/1",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.75529699,
+          55.21564969
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "title": "FP 3.1"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/2",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.75529699,
+          55.21564969
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "title": "FP 3.2"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/3",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.75529699,
+          55.21564969
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "title": "FP 3.3"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/4",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.75529699,
+          55.21564969
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "title": "FP 3.4"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/5",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.75529699,
+          55.21564969
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "title": "FP 3.5"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/6",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.75529699,
+          55.21564969
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "title": "FP 3.6"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/7",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.75529699,
+          55.21564969
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "title": "FP 3.7"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/8",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.75529699,
+          55.21564969
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "title": "FP 3.8"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/9",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.75529699,
+          55.21564969
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "title": "FP 3.9"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/10",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.75529699,
+          55.21564969
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "title": "FP 3.10"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/11",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.75529699,
+          55.21564969
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "title": "FP 3.11"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/12",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.75529699,
+          55.21564969
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "title": "FP 3.12"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/13",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.75529699,
+          55.21564969
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "title": "FP 3.13"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/14",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.75529699,
+          55.21564969
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "title": "FP 3.14"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/15",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.02748224,
+          55.13360639
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "title": "FP 22.1"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/16",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.79816681,
+          55.07203087
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "title": "FP 57.1"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/23",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.47649445,
+          55.23545989
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "title": "FP 72.1"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/24",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.47649445,
+          55.23545989
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "title": "FP 72.2"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/25",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.47649445,
+          55.23545989
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "title": "FP 72.3"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/26",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.47649445,
+          55.23545989
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "title": "FP 72.4"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/27",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.47649445,
+          55.23545989
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "title": "FP 72.5"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/28",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "title": "FP 85.1"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/29",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "title": "FP 85.2"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/30",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "title": "FP 85.3"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/31",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "title": "FP 85.4"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/32",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "title": "FP 85.5"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/33",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "title": "FP 85.6"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/34",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "title": "FP 85.7"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/35",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "title": "FP 85.8"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/36",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "title": "FP 85.9"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/37",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "title": "FP 85.10"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/38",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "title": "FP 85.11"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/39",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "title": "FP 85.12"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/40",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "title": "FP 85.13"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/41",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "title": "FP 85.14"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/42",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "title": "FP 85.15"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/43",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "title": "FP 85.16"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/44",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "title": "FP 85.17"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/45",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "title": "FP 85.18"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/46",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "title": "FP 85.19"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/47",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "title": "FP 85.20"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/48",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "title": "FP 85.21"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/49",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "title": "FP 85.22"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/50",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "title": "FP 85.23"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/51",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "title": "FP 85.24"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/52",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "title": "FP 85.25"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/53",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "title": "FP 85.26"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/54",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "title": "FP 85.27"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/55",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "title": "FP 85.28"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/56",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "title": "FP 85.29"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/57",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "title": "FP 85.30"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/58",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "title": "FP 85.31"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/59",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "title": "FP 85.32"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/60",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "title": "FP 85.33"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/61",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "title": "FP 85.34"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/62",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "title": "FP 85.35"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/63",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "title": "FP 85.36"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/64",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "title": "FP 85.37"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/65",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "title": "FP 85.38"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/66",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "title": "FP 85.39"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/67",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "title": "FP 85.40"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/68",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "title": "FP 85.41"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/69",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "title": "FP 85.42"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/70",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "title": "FP 85.43"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/71",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "title": "FP 85.44"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/72",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47072718,
+          55.74600426
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "title": "FP 85.45"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/73",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "title": "FP 87.1"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/74",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 74,
+        "title": "FP 87.2"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/75",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "title": "FP 87.3"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/76",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "title": "FP 87.4"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/77",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "title": "FP 87.5"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/78",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "title": "FP 87.6"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/79",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "title": "FP 87.7"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/80",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "title": "FP 87.8"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/81",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "title": "FP 87.9"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/82",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "title": "FP 87.10"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/83",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "title": "FP 87.11"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/84",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "title": "FP 87.12"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/85",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "title": "FP 87.13"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/86",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "title": "FP 87.14"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/87",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "title": "FP 87.15"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/88",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "title": "FP 87.16"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/89",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "title": "FP 87.17"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/90",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "title": "FP 87.18"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/91",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "title": "FP 87.19"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/92",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "title": "FP 87.20"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/93",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "title": "FP 87.21"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/94",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 94,
+        "title": "FP 87.22"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/95",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 95,
+        "title": "FP 87.23"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/96",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "title": "FP 87.24"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/97",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 97,
+        "title": "FP 87.25"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/98",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "title": "FP 87.26"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/99",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 99,
+        "title": "FP 87.27"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/100",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 100,
+        "title": "FP 87.28"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/101",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 101,
+        "title": "FP 87.29"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/102",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 102,
+        "title": "FP 87.30"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/103",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 103,
+        "title": "FP 87.31"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/104",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 104,
+        "title": "FP 87.32"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/105",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 105,
+        "title": "FP 87.33"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/106",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 106,
+        "title": "FP 87.34"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/107",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 107,
+        "title": "FP 87.35"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/108",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.86979995,
+          55.10678105
+        ]
+      },
+      "properties": {
+        "id": 108,
+        "title": "FP 91.1"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/109",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.40078781,
+          55.74619286
+        ]
+      },
+      "properties": {
+        "id": 109,
+        "title": "FP 92.1"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/110",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.93207174,
+          55.06417067
+        ]
+      },
+      "properties": {
+        "id": 110,
+        "title": "FP 96.1"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/111",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.88441624,
+          55.45158002
+        ]
+      },
+      "properties": {
+        "id": 111,
+        "title": "FP 99.1"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/112",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.57923309,
+          54.99944399
+        ]
+      },
+      "properties": {
+        "id": 112,
+        "title": "FP 110.1"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/113",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 113,
+        "title": "FP 122.1"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/114",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 114,
+        "title": "FP 122.2"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/115",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 115,
+        "title": "FP 122.3"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/116",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 116,
+        "title": "FP 122.4"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/117",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 117,
+        "title": "FP 122.5"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/118",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 118,
+        "title": "FP 122.6"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/119",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 119,
+        "title": "FP 122.7"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/120",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 120,
+        "title": "FP 122.8"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/121",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 121,
+        "title": "FP 122.9"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/122",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 122,
+        "title": "FP 122.10"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/123",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 123,
+        "title": "FP 122.11"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/124",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 124,
+        "title": "FP 122.12"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/125",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 125,
+        "title": "FP 122.13"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/126",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 126,
+        "title": "FP 122.14"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/127",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 127,
+        "title": "FP 122.15"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/128",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 128,
+        "title": "FP 122.16"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/129",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 129,
+        "title": "FP 122.17"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/130",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 130,
+        "title": "FP 122.18"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/131",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 131,
+        "title": "FP 122.19"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/132",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 132,
+        "title": "FP 122.20"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/133",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 133,
+        "title": "FP 122.21"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/134",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 134,
+        "title": "FP 122.22"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/135",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 135,
+        "title": "FP 122.23"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/136",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 136,
+        "title": "FP 122.24"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/137",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 137,
+        "title": "FP 122.25"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/138",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 138,
+        "title": "FP 122.26"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/139",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 139,
+        "title": "FP 122.27"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/140",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 140,
+        "title": "FP 122.28"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/141",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 141,
+        "title": "FP 122.29"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/142",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 142,
+        "title": "FP 122.30"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/143",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 143,
+        "title": "FP 122.31"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/144",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 144,
+        "title": "FP 122.32"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/145",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 145,
+        "title": "FP 122.33"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/146",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 146,
+        "title": "FP 122.34"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/147",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 147,
+        "title": "FP 122.35"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/148",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 148,
+        "title": "FP 122.36"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/149",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 149,
+        "title": "FP 122.37"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/150",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 150,
+        "title": "FP 122.38"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/151",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 151,
+        "title": "FP 122.39"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/152",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 152,
+        "title": "FP 122.40"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/153",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 153,
+        "title": "FP 122.41"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/154",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 154,
+        "title": "FP 122.42"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/155",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 155,
+        "title": "FP 122.43"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/156",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 156,
+        "title": "FP 122.44"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/157",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 157,
+        "title": "FP 122.45"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/158",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 158,
+        "title": "FP 122.46"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/159",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 159,
+        "title": "FP 122.47"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/160",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 160,
+        "title": "FP 122.48"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/161",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 161,
+        "title": "FP 122.49"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/162",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 162,
+        "title": "FP 122.50"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/163",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 163,
+        "title": "FP 122.51"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/164",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 164,
+        "title": "FP 122.52"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/165",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 165,
+        "title": "FP 122.53"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/166",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 166,
+        "title": "FP 122.54"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/167",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 167,
+        "title": "FP 122.55"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/168",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 168,
+        "title": "FP 122.56"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/169",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 169,
+        "title": "FP 122.57"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/170",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 170,
+        "title": "FP 122.58"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/171",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 171,
+        "title": "FP 122.59"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/172",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 172,
+        "title": "FP 122.60"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/173",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 173,
+        "title": "FP 122.61"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/174",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 174,
+        "title": "FP 122.62"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/175",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 175,
+        "title": "FP 122.63"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/176",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 176,
+        "title": "FP 122.64"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/177",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 177,
+        "title": "FP 122.65"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/178",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 178,
+        "title": "FP 122.66"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/179",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 179,
+        "title": "FP 122.67"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/180",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 180,
+        "title": "FP 122.68"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/181",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 181,
+        "title": "FP 122.69"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/182",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 182,
+        "title": "FP 122.70"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/183",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 183,
+        "title": "FP 122.71"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/184",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 184,
+        "title": "FP 122.72"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/185",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 185,
+        "title": "FP 122.73"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/186",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 186,
+        "title": "FP 122.74"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/187",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 187,
+        "title": "FP 122.75"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/188",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 188,
+        "title": "FP 122.76"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/189",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 189,
+        "title": "FP 122.77"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/190",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 190,
+        "title": "FP 122.78"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/191",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 191,
+        "title": "FP 122.79"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/192",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 192,
+        "title": "FP 122.80"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/193",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 193,
+        "title": "FP 122.81"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/194",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 194,
+        "title": "FP 122.82"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/195",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 195,
+        "title": "FP 122.83"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/196",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 196,
+        "title": "FP 122.84"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/197",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 197,
+        "title": "FP 122.85"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/198",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 198,
+        "title": "FP 122.86"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/199",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 199,
+        "title": "FP 122.87"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/200",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 200,
+        "title": "FP 122.88"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/201",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 201,
+        "title": "FP 122.89"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/202",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 202,
+        "title": "FP 122.90"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/203",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 203,
+        "title": "FP 122.91"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/204",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 204,
+        "title": "FP 122.92"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/205",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 205,
+        "title": "FP 122.93"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/206",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 206,
+        "title": "FP 122.94"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/207",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 207,
+        "title": "FP 122.95"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/208",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 208,
+        "title": "FP 122.96"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/209",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 209,
+        "title": "FP 122.97"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/210",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 210,
+        "title": "FP 122.98"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/211",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 211,
+        "title": "FP 122.99"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/212",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 212,
+        "title": "FP 122.100"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/213",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 213,
+        "title": "FP 122.101"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/214",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 214,
+        "title": "FP 122.102"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/215",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 215,
+        "title": "FP 122.103"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/216",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 216,
+        "title": "FP 122.104"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/217",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 217,
+        "title": "FP 122.105"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/218",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 218,
+        "title": "FP 122.106"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/219",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 219,
+        "title": "FP 122.107"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/220",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 220,
+        "title": "FP 122.108"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/221",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 221,
+        "title": "FP 122.109"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/222",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 222,
+        "title": "FP 122.110"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/223",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 223,
+        "title": "FP 122.111"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/224",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 224,
+        "title": "FP 122.112"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/225",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 225,
+        "title": "FP 122.113"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/226",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 226,
+        "title": "FP 122.114"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/227",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 227,
+        "title": "FP 122.115"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/228",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 228,
+        "title": "FP 122.116"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/229",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 229,
+        "title": "FP 122.117"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/230",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 230,
+        "title": "FP 122.118"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/231",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 231,
+        "title": "FP 122.119"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/232",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 232,
+        "title": "FP 122.120"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/233",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 233,
+        "title": "FP 122.121"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/234",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 234,
+        "title": "FP 122.122"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/235",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 235,
+        "title": "FP 122.123"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/236",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 236,
+        "title": "FP 122.124"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/237",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 237,
+        "title": "FP 122.125"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/238",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 238,
+        "title": "FP 122.126"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/239",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 239,
+        "title": "FP 122.127"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/240",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 240,
+        "title": "FP 122.128"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/241",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 241,
+        "title": "FP 122.129"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/242",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 242,
+        "title": "FP 122.130"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/243",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 243,
+        "title": "FP 122.131"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/244",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 244,
+        "title": "FP 122.132"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/245",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 245,
+        "title": "FP 122.133"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/246",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 246,
+        "title": "FP 122.134"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/247",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 247,
+        "title": "FP 122.135"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/248",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 248,
+        "title": "FP 122.136"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/249",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 249,
+        "title": "FP 122.137"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/250",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 250,
+        "title": "FP 122.138"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/251",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 251,
+        "title": "FP 122.139"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/252",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 252,
+        "title": "FP 122.140"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/253",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 253,
+        "title": "FP 122.141"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/254",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 254,
+        "title": "FP 122.142"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/255",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 255,
+        "title": "FP 122.143"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/256",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 256,
+        "title": "FP 122.144"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/257",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 257,
+        "title": "FP 122.145"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/258",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 258,
+        "title": "FP 122.146"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/259",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 259,
+        "title": "FP 122.147"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/260",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 260,
+        "title": "FP 122.148"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/261",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 261,
+        "title": "FP 122.149"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/262",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 262,
+        "title": "FP 122.150"
+      }
+    },
+    {
+      "@id": "https://finds.org.uk/database/artefacts/record/id/263",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74323875,
+          55.11002764
+        ]
+      },
+      "properties": {
+        "id": 263,
+        "title": "FP 122.151"
+      }
+    }
+  ]
+}
