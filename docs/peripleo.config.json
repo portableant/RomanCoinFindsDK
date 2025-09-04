@@ -8,9 +8,6 @@
       "src": "./data/Peripleo_linkedplaces.json"
     }
   ],
-  "facets": [
-    "type"
-  ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
     { "pattern": "www.geograph.org.uk", "img": "./logos/geograph.org.png", "label": "Geograph" },
